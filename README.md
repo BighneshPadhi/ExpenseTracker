@@ -3,7 +3,6 @@
 A premium, production-ready expense tracking application built with React, TypeScript, Vite, Tailwind CSS, and Supabase. Features a beautiful dark minimalist theme with advanced analytics, budget management, and transaction tracking.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![React](https://img.shields.io/badge/React-18+-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue.svg)
 
